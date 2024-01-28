@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na ReactJs do Ignite, para a criação de um `Hook` de carrinho de compras
+Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na trilha de ReactJs do Ignite, para a criação de um `Hook` de carrinho de compras
 
 ## ✨ Tecnologias
 
